@@ -1,5 +1,5 @@
 # Schülerforschungszentrum Eningen
-Die Repositories dieser GitHub Organisation enthalten die Projekte der Schüler\*Innen am SFZ-Eningen/Tübingen.
+Die [Repositories](https://github.com/sfz-eningen) dieser GitHub Organisation enthalten die Projekte der SchülerInnen am [SFZ-Eningen/Tübingen](https://sfz-bw.de/eningen/).
 
 ## Projekte
 
